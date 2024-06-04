@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T13:54:31.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="Rf6Lp6fhrpfS0nyKd8AX" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T13:57:47.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="etFnv3FVK8E--UnRKwOL" version="24.4.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2049" dy="1553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1500" dy="1313" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,7 +183,7 @@
         <mxCell id="alP96kUYFZO8rDHajEaq-35" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Node.js&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1577" y="296.5" width="178" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="alP96kUYFZO8rDHajEaq-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="alP96kUYFZO8rDHajEaq-1" target="alP96kUYFZO8rDHajEaq-4">
+        <mxCell id="alP96kUYFZO8rDHajEaq-36" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startFill=0;" edge="1" parent="1" source="alP96kUYFZO8rDHajEaq-1" target="alP96kUYFZO8rDHajEaq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1730" y="478" as="sourcePoint" />
             <mxPoint x="1780" y="428" as="targetPoint" />
@@ -222,6 +222,17 @@
         <mxCell id="alP96kUYFZO8rDHajEaq-41" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Управление данными&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="alP96kUYFZO8rDHajEaq-40">
           <mxGeometry x="0.102" y="-2" relative="1" as="geometry">
             <mxPoint x="-14" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alP96kUYFZO8rDHajEaq-42" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;startFill=0;" edge="1" parent="1" source="alP96kUYFZO8rDHajEaq-4" target="alP96kUYFZO8rDHajEaq-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1436" y="306.79" as="sourcePoint" />
+            <mxPoint x="1609" y="306.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alP96kUYFZO8rDHajEaq-43" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;HTTP-ответ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="alP96kUYFZO8rDHajEaq-42">
+          <mxGeometry x="0.102" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

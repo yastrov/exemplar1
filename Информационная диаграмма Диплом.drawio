@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T09:33:18.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="oVXqmOwfmnpQP0BcJ-RF" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T09:33:39.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="nI1HUj2NOsb-XTS-IEh5" version="24.5.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="4025" dy="1998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -915,7 +915,7 @@
         <mxCell id="B2d7LQVzXqylk7eN2AwO-11" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Ввод прошеднего&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;времени&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="2829" y="688.5" width="434" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="B2d7LQVzXqylk7eN2AwO-12" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Создание начальной точки планирования&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="B2d7LQVzXqylk7eN2AwO-12" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Создать инцидентт&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2882" y="123" width="301" height="126" as="geometry" />
         </mxCell>
       </root>

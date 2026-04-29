@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.4.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36">
   <diagram name="Страница — 1" id="a0nIVQFMLuUEzL4oQPMq">
-    <mxGraphModel dx="2464" dy="1348" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="2885" dy="1622" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1769,6 +1769,39 @@
             </Array>
             <mxPoint x="-856.5" y="1101" as="sourcePoint" />
             <mxPoint x="-749.5" y="1003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontSize=11;" value="Написание кода" vertex="1">
+          <mxGeometry height="28" width="131" x="-601" y="838.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontSize=11;" value="Проверка в DevTools" vertex="1">
+          <mxGeometry height="28" width="131" x="-441" y="838.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontSize=11;" value="Поиск проблем (вручную)" vertex="1">
+          <mxGeometry height="28" width="131" x="-283" y="838.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontSize=11;" value="Оптимизация" vertex="1">
+          <mxGeometry height="28" width="131" x="-129" y="838.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-5" edge="1" parent="1" source="IBYloQ068Ov17kqeLDfA-1" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IBYloQ068Ov17kqeLDfA-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-463" y="816.8199999999999" as="sourcePoint" />
+            <mxPoint x="-426" y="816.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-7" edge="1" parent="1" source="IBYloQ068Ov17kqeLDfA-2" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IBYloQ068Ov17kqeLDfA-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-283" y="786" as="sourcePoint" />
+            <mxPoint x="-254" y="786" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBYloQ068Ov17kqeLDfA-8" edge="1" parent="1" source="IBYloQ068Ov17kqeLDfA-3" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IBYloQ068Ov17kqeLDfA-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-191" y="853" as="sourcePoint" />
+            <mxPoint x="-162" y="853" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
